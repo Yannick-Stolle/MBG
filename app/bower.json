@@ -1,7 +1,0 @@
-{
-  "name": "ionic-gulp-seed",
-  "private": "false",
-  "devDependencies": {
-    "ionic": "driftyco/ionic-bower#1.0.0-beta.11"
-  }
-}
